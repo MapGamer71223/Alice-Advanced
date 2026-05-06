@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Database runtime files
+*.db-wal
+*.db-shm
+
+# Logs
+logs/
+*.log
+
+# Audio
+*.wav
+*.mp3
+
+# Models
+*.onnx
+
+# STT models
+vosk-model-*/
+
+# Cache
+.cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Secrets
+.env
